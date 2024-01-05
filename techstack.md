@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/quickstart-android](https://github.com/akasaa101/quickstart-android)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|11/28/23 <br/>Report generated|
+|20<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
